@@ -19,7 +19,7 @@ Ensures the student list does not exceed a maximum of 8 records.
 
 Validates that the course is one of the allowed options (CS, ECE, IT, MECH, CIVIL).
 
-# 🚀How to Run
+# 🚀Setup It Locally
 Ensure you have Python 3 installed.
 Clone or download the project file (student_management.py).
 ```bash
@@ -27,4 +27,5 @@ git clone https://github.com/DivyaKodimella/StudentManagementSystem
 python main.py
 
 ```
+
 
