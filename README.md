@@ -23,6 +23,7 @@ Validates that the course is one of the allowed options (CS, ECE, IT, MECH, CIVI
 Ensure you have Python 3 installed.
 Clone or download the project file (student_management.py).
 ```bash
-git clone https://github.com/GAJULAVISHAL/Student-Management-System.git
+git clone https://github.com/DivyaKodimella/StudentManagementSystem
 python main.py
+
 ```
